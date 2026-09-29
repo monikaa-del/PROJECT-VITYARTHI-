@@ -1,0 +1,25 @@
+{
+    "Python Developer": [
+        "Python",
+        "Git",
+        "SQL",
+        "Flask",
+        "Pandas"
+    ],
+
+    "Data Analyst": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "Excel",
+        "Tableau"
+    ],
+
+    "AI Engineer": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "Pandas"
+    ]
+}
